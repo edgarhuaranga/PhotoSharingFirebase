@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007772006482",
+    "firebase_url": "https://peruappstest.firebaseio.com",
+    "project_id": "peruappstest",
+    "storage_bucket": "peruappstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007772006482:android:8737080f4aec1427",
+        "android_client_info": {
+          "package_name": "com.ehuaranga.photosharingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007772006482-mi0k1tm289d5u7sfdihr9dmvlnbn3f8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ehuaranga.photosharingfirebase",
+            "certificate_hash": "22c0aeeda76f44b670d5a6de1b9b4aacb2b9bda9"
+          }
+        },
+        {
+          "client_id": "1007772006482-5ompgvmlrnobgjpaqea33ob3cldbi769.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkN9Th-ZrRKE2JRC948znJGajOqSrs0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007772006482-5ompgvmlrnobgjpaqea33ob3cldbi769.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
